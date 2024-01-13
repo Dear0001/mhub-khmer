@@ -72,7 +72,7 @@ const App = () => {
       </CSSTransition>
       <CSSTransition in={!loading} timeout={300} classNames="fade" unmountOnExit>
         <Switch>
-          <Route path="/kh-food" element={<Home />} />
+          <Route path="/mhub-khmer" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/blog" element={<BlogSection />} />
           <Route path="/contact" element={<Contact />} />

@@ -108,7 +108,7 @@ const Navigation = () => {
           >
             <ul className="navlist sub__nav__dropdown">
               <li>
-                <Link to="/kh-food">Home</Link>
+                <Link to="/mhub-khmer">Home</Link>
               </li>
               <li>
                 <Link to="/about">About us</Link>
